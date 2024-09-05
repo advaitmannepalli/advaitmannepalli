@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Advait Mannepalli
 - 👀 I’m interested in web development and general programming
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me amannepalli2@gmail.com
+- 🌱 I’m currently working as a Software Developer
+- 💞️ I’m looking to collaborate on web development projects in the future
+- 📫 How to reach me advaitmannepalli@gmail.com
 
 <!---
 advaitmannepalli/advaitmannepalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
