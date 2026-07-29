@@ -17,7 +17,7 @@ Production website redesign from Wordpress to Vue.JS with a focus on technical S
 ### Hybrid Search (Personal)
 A multithreaded search engine that combines semantic search and keyword search using OpenSearch and transformer embeddings.
 
-### StageFright
+### StageFright (Personal)
 A responsive website developed for the 2025 BPA Web Design competition. The project features a fictional late night rock band with event browsing, ticket reservations, merchandise ordering, and more.
 
 What I'm doing right now:
