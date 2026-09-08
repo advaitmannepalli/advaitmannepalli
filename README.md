@@ -11,8 +11,11 @@ Currently, I'm interested in:
 - Computer Architecture
 
 Some cool projects:
-### 1 on 1 Truck Academy (Job)
+### 1 on 1 Truck Academy
 Production website redesign from Wordpress to Vue.JS with a focus on technical SEO, performance, and local search optimization.
+
+### Python Portfolio Backtester (Personal)
+A Pandas, NumPy, and yFinance python project that conducts a 40 year backtest of a portfolio as well as Monte Carlo simulations 40 years into the future.
 
 ### Hybrid Search (Personal)
 A multithreaded search engine that combines semantic search and keyword search using OpenSearch and transformer embeddings.
@@ -21,7 +24,8 @@ A multithreaded search engine that combines semantic search and keyword search u
 A responsive website developed for the 2025 BPA Web Design competition. The project features a fictional late night rock band with event browsing, ticket reservations, merchandise ordering, and more.
 
 What I'm doing right now:
-- Learning Rust
+- Locked in for CS439
+- Learning Rust (on temporary break for now)
 
 
 
