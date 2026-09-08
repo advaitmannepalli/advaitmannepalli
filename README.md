@@ -5,7 +5,7 @@ I'm studying Computer Science at UT Austin - I like learning about how systems w
 Currently, I'm interested in:
 - Backend Software Engineering
 - Systems Programming
-- Information Retrieval
+- Investing + Finances
 - Machine Learning
 - Operating Systems
 - Computer Architecture
